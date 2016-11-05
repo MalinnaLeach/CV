@@ -14,22 +14,22 @@ Blah blah stuff to illustrate I have a personality and what drives me.
 #### Cross-Functional Leadership
 During my time at Innocent I took on management of a project to ensure an optimal and legislatively compliant range across European territories.  This was in addition to my normal role in the Customer Supply team, and involved working with multiple teams across the Business, without having had any prior experience of range optimisation or product compliance.
 
-A key strength of mine is feeling confident in situations where I don't have any of the answers, but can ask the right questions. My ability to quickly establish a clear overview brought clarity and momentum to the project.  I was then able to hand it over to another colleague with a clear plan in place as it passed it's next decision point.
+A key strength of mine is *feeling confident in situations where I don't have any of the answers*, but can ask the right questions. My ability to quickly establish a clear overview brought clarity and momentum to the project.  I was then able to hand it over to another colleague with a clear plan in place as it passed it's next decision point.
 
 
 #### Designing Business Tools
-This was never meant to be in my job description at Innocent, but increasingly became so as my talent and enthusiasm for creating complex business tools using Excel became apparent. I took on ownership and redesigned some of the key tools used to project promotional sales and to analyse and report on performance.  This aspect of my role gave me so much joy and satisfaction, it inspired me to learn how to code.
+This was never meant to be in my job description at Innocent, but increasingly became so as my talent and enthusiasm for creating complex business tools using Excel became apparent. I took on ownership and redesigned some of the key tools used to project promotional sales and to analyse and report on performance.  This aspect of my role gave me *so much joy and satisfaction*, it inspired me to learn how to code.
 
 
 #### Driving Development
-I have a growth mindset and love to be challenged.  I thrive in a development focussed culture where the value of feedback as a tool to drive change is understood.  I also love to support the development of others.  During my time at Innocent I had a role reporting into me, and at Makers Academy I have two mentees in the November cohort.  When we were asked to give feedback on each other, my cohort praised my communication skills and my ability to help others learn.  
+I have a growth mindset and *love to be challenged*.  I thrive in a development focussed culture where the value of feedback as a tool to drive change is understood.  I also love to support the development of others.  During my time at Innocent I had a role reporting into me, and at Makers Academy I have two mentees in the November cohort.  When we were asked to give feedback on each other, my cohort praised my communication skills and my *ability to help others learn*.  
 
 
 ## Projects
 
  | Project | Description | Timeframe | Technologies | Testing
 -------------- | ------------- | ----------- | --------------------- | ------------ | -------
-  |  [Rock Paper Stone](https://github.com/MalinnaLeach/rps-challenge) | description | 2 days, alone | Ruby, Sinatra | Rspec, Capybara
+![Screenshot](https://www.dropbox.com/s/p5mhdmvwueucw8q/Screen%20Shot%202016-10-16%20at%2010.06.29.png?raw=1)  |  [Rock Paper Stone](https://github.com/MalinnaLeach/rps-challenge) | description | 2 days, alone | Ruby, Sinatra | Rspec, Capybara
 
 ## Education
 
