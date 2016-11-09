@@ -13,16 +13,16 @@ A desire to use my analytical skills to create tangible products has inspired my
 
 ## Skills
 
-#### Cross-Functional Leadership
-During my time at Innocent I took on management of a project to ensure an optimal and legislatively compliant range across European territories.  This was in addition to my normal role in the Customer Supply team, and involved working with multiple teams across the Business, without having had any prior experience of range optimisation or product compliance.
-
-A key strength of mine is **feeling confident in situations where I don't have any of the answers**, but can ask the right questions. My ability to quickly establish a clear overview brought clarity and momentum to the project.  I was then able to hand it over to another colleague with a clear plan in place as it passed it's next decision point.
-
 #### Designing Business Tools
 This was not originally part of my job description at Innocent, but increasingly became so as my talent and enthusiasm for creating complex business tools using Excel became apparent. I took on ownership and redesigned some of the key tools used to project promotional sales and to analyse and report on performance.  This aspect of my role gave me **so much joy and satisfaction**, it inspired me to learn how to code.
 
 #### Driving Development
 I have a growth mindset and **love to be challenged**.  I thrive in a development focussed culture where the value of feedback as a tool to drive change is understood.  I also love to support the development of others.  During my time at Innocent I had a role reporting into me, and at Makers Academy I have two mentees in the November cohort.  When we were asked to give feedback on each other, my cohort praised my communication skills and my **ability to help others learn**.  
+
+#### Cross-Functional Leadership
+During my time at Innocent I took on management of a project to ensure an optimal and legislatively compliant range across European territories.  This was in addition to my normal role in the Customer Supply team, and involved working with multiple teams across the Business, without having had any prior experience of range optimisation or product compliance.
+
+A key strength of mine is **feeling confident in situations where I don't have any of the answers**, but can ask the right questions. My ability to quickly establish a clear overview brought clarity and momentum to the project.  I was then able to hand it over to another colleague with a clear plan in place as it passed it's next decision point.
 
 #### Blogging
 The blog that I started to document my coding journey has had over 2k views, and I've had articles published in Code Like A Girl and Makers Academy.  Check it out [here](https://medium.com/@malinnaleach).
