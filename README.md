@@ -31,8 +31,10 @@ The blog that I started to document my coding journey has had over 2k views, and
 
  | Project | Description | Timeframe | Technologies | Testing
 -------------- | ------------- | ----------- | --------------------- | ------------ | -------
+![Screenshot](https://www.dropbox.com/s/re858mb3j8hoeuo/Screen%20Shot%202016-11-12%20at%2020.06.27.png?raw=1)  |  [News Summary](https://github.com/MalinnaLeach/news-summary) | A news website | 1 week in a team of 4 | Javascript, HTML, CSS | Bespoke JS tests
 ![Screenshot](https://www.dropbox.com/s/jnr7ray252qc0py/Screen%20Shot%202016-11-01%20at%2020.08.19.png?raw=1)  |  [Lets go bowling!](https://github.com/MalinnaLeach/bowling-challenge) | An animated bowling game  | 2 days, working alone | Javascript, Jquery | Jasmine
-![Screenshot](https://www.dropbox.com/s/p5mhdmvwueucw8q/Screen%20Shot%202016-10-16%20at%2010.06.29.png?raw=1)  |  [Rock Paper Scissors](https://github.com/MalinnaLeach/rps-challenge) | A simple Rock Paper Scissors game  | 2 days, working alone | Ruby, Sinatra | Rspec, Capybara
+![Screenshot](https://www.dropbox.com/s/bpigp2gnv9mer42/Screen%20Shot%202016-10-23%20at%2020.21.38.png?raw=1)  |  [Chitter](https://github.com/MalinnaLeach/chitter-challenge) | A new social network | 2 days, working alone | Ruby, Sinatra, Datamapper, Bcrypt | Rspec, Capybara
+
 
 ## Education
 
