@@ -25,7 +25,7 @@ During my time at Innocent I took on management of a project to ensure an optima
 A key strength of mine is **feeling confident in situations where I don't have any of the answers**, but can ask the right questions. My ability to quickly establish a clear overview brought clarity and momentum to the project.  I was then able to hand it over to another colleague with a clear plan in place as it passed it's next decision point.
 
 #### Blogging
-The blog that I started to document my coding journey has had over 2k views, and I've had articles published in Code Like A Girl and Makers Academy.  Check it out [here](https://medium.com/@malinnaleach).
+The blog that I started to document my coding journey has had over 2k views, and I've had articles published in Code Like A Girl and Makers Academy.  I've also been booked to speak on the Ruby Rogues podcast.  Check out my blog [here](https://medium.com/@malinnaleach).
 
 ## Projects
 
