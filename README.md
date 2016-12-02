@@ -4,25 +4,25 @@
 
 ####Junior Full Stack Web Developer
 
-I am a London-based Junior Full Stack Web Developer looking for a great company with which to share the formative years of my new career path.  I am currently studying at **Makers Academy**, Europe's leading developer bootcamp, and will graduate **December 2016**.  
+I am a London-based Junior Full Stack Web Developer.  I'm currently studying at **Makers Academy**, Europe's leading developer bootcamp, and will graduate **December 2016**.  
 
-I am curious and excitable, yet a calming influence in a crisis.  I am very ambitious, but not in the sense of climbing a career ladder to a pre-defined point.  I am driven to **learn every day**, be the best version of myself, be happy, and - where it is in my power - help others to be happy too.
+I am driven by curiosity, and my ambitions mostly centre on my own development.  My leadership skills bring a natural momentum to any project, and my enthusiasm is infectious.
 
 A desire to use my analytical skills to create tangible products has inspired my move into Web Development.  Making something that solves a problem, that can make a person's life a little easier, better or more fun will give me a sense of fulfilment that I wasn't quite getting when managing business processes.  **Coding makes me happy**.
 
-
 ## Skills
 
-#### Designing Business Tools
-This was not originally part of my job description at Innocent, but increasingly became so as my talent and enthusiasm for creating complex business tools using Excel became apparent. I took on ownership and redesigned some of the key tools used to project promotional sales and to analyse and report on performance.  This aspect of my role gave me **so much joy and satisfaction**, it inspired me to learn how to code.
+#### Pace of learning
+I can pick up new technologies and languages at the drop of a hat.  In a recent project (as a small team of 4) we built a React based task manager app which linked to an Express / Node.js back-end, Sequelize database and was tested using Jest. We did this in a week despite none of us having had any prior experience with any of those technologies. The project was my idea, and I led the charge in terms of designing the project structure and helping team members to learn effectively.
+
+#### Designing tools and applications
+During my studies I have developed a passion for clean code, and I love domain modelling and refactoring.  At Innocent I redesigned and built a number of key business tools using Excel; managing iterations using agile methodologies.  This aspect of my role gave me **so much joy and satisfaction**, it inspired me to learn how to code.
 
 #### Driving Development
-I have a growth mindset and **love to be challenged**.  I thrive in a development focussed culture where the value of feedback as a tool to drive change is understood.  I also love to support the development of others.  During my time at Innocent I had a role reporting into me, and at Makers Academy I have two mentees in the November cohort.  When we were asked to give feedback on each other, my cohort praised my communication skills and my **ability to help others learn**.  
+At Innocent I had a role reporting to me, and I relished the challenge of supporting someone else's development.  When we were asked to share feedback on each other, my cohort praised my communication skills and my **ability to help others learn**.  
 
 #### Cross-Functional Leadership
-During my time at Innocent I took on management of a project to ensure an optimal and legislatively compliant range across European territories.  This was in addition to my normal role in the Customer Supply team, and involved working with multiple teams across the Business, without having had any prior experience of range optimisation or product compliance.
-
-A key strength of mine is **feeling confident in situations where I don't have any of the answers**, but can ask the right questions. My ability to quickly establish a clear overview brought clarity and momentum to the project.  I was then able to hand it over to another colleague with a clear plan in place as it passed it's next decision point.
+A key strength of mine is **feeling confident in situations where I don't have any of the answers**, but can ask the right questions.  At Innocent I managed a range optimisation and compliance project despite having no experience in that area. My ability to quickly establish a clear overview created the clarity and structure that the project needed.
 
 #### Blogging
 The blog that I started to document my coding journey has had over 2k views, and I've had articles published in Code Like A Girl and Makers Academy.  I've also been booked to speak on the Ruby Rogues podcast.  Check out my blog [here](https://medium.com/@malinnaleach).
@@ -45,6 +45,7 @@ A 16-week software development bootcamp, with a focus on:
 - Pair programming  
 - Agile methodologies  
 - Test-Driven Development  
+- Object oriented programming with SOLID principles
 
 #### University of Salford (1997 - 2000)
 
@@ -55,7 +56,6 @@ This involved a lot of mathematical modelling, along with some application progr
 ## Experience
 
 **Innocent Drinks (2008 - 2015)**    
-- Innocent is one of the UK's leading FMCG brands. It has a fast-paced, values-led culture.
 - I started as a Customer Supply Specialist, and was promoted to Manager level in 2011.
 - Customer Supply responsibilities:  Customer-Facing Relationship Management, Promotional Forecasting, Supply KPIs.
 - I also project managed the full supply-chain of Innocent's Big Knit campaign.
