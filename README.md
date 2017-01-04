@@ -4,7 +4,7 @@
 
 ####Junior Full Stack Web Developer
 
-I am a London-based Junior Full Stack Web Developer, and a recent graduate of **Makers Academy**, Europe's leading developer bootcamp.  
+I am a London-based Junior Full Stack Web Developer, and a recent graduate of **Makers Academy** - Europe's leading developer bootcamp.  
 
 I am driven by curiosity, and my ambitions mostly centre on my own development.  My leadership skills bring a natural momentum to any project, and my enthusiasm is infectious.
 
@@ -32,7 +32,7 @@ Please feel free to explore my Git profile to see more of my work.
 
  | Project | Description | Timeframe | Technologies | Testing
 -------------- | ------------- | ----------- | --------------------- | ------------ | -------
-![Screenshot](https://www.dropbox.com/s/k87144urxf2ytna/Screen%20Shot%202016-12-16%20at%2016.04.50.png?raw=1)  |  [CSS Playground](https://github.com/MalinnaLeach/CSS-playground)  |  A tool to generate code  |  2 weeks in a team of 4  |  React, Javascript  |  Enzyme, Jest
+![Screenshot](https://www.dropbox.com/s/k87144urxf2ytna/Screen%20Shot%202016-12-16%20at%2016.04.50.png?raw=1)  |  [CSS Playground](https://github.com/MalinnaLeach/CSS-playground)  |  A tool to generate CSS and HTML code  |  2 weeks in a team of 4  |  React, Javascript  |  Enzyme, Jest
 ![Screenshot](https://www.dropbox.com/s/re858mb3j8hoeuo/Screen%20Shot%202016-11-12%20at%2020.06.27.png?raw=1)  |  [News Summary](https://github.com/MalinnaLeach/news-summary) | A news website | 2 days in a team of 4 | Javascript, HTML, CSS, Guardian API | Bespoke JS tests
 ![Screenshot](https://www.dropbox.com/s/bpigp2gnv9mer42/Screen%20Shot%202016-10-23%20at%2020.21.38.png?raw=1)  |  [Chitter](https://github.com/MalinnaLeach/chitter-challenge) | A new social network | 2 days, working alone | Ruby, Sinatra, Datamapper, Bcrypt | Rspec, Capybara
 
