@@ -13,13 +13,13 @@ A desire to use my analytical skills to create tangible products has inspired my
 ## Skills
 
 #### Pace of learning
-I can pick up new technologies and languages at the drop of a hat.  In a recent project (as a small team of 4) we built a React based task manager app which linked to an Express / Node.js back-end, Sequelize database and was tested using Jest. We did this in a week despite none of us having had any prior experience with any of those technologies. The project was my idea, and I led the charge in terms of designing the project structure and helping team members to learn effectively.
+I can pick up new technologies and languages with ease.  In a recent project (as a small team of 4) we built a React based task manager app which linked to an Express / Node.js back-end, Sequelize database and was tested using Jest. We did this in a week despite none of us having had any prior experience with any of those technologies. The project was my idea, and I led the charge in terms of designing the project structure and helping team members to learn effectively.
 
 #### Designing tools and applications
 During my studies I have developed a passion for clean code, and I love domain modelling and refactoring.  At Innocent I redesigned and built a number of key business tools using Excel; managing iterations using agile methodologies.  This aspect of my role gave me **so much joy and satisfaction**, it inspired me to learn how to code.
 
 #### Driving Development
-At Innocent I had a role reporting to me, and I relished the challenge of supporting someone else's development.  When we were asked to share feedback on each other, my cohort praised my communication skills and my **ability to help others learn**.  
+At Innocent I had a role reporting to me, and I relished the challenge of supporting someone else's development.  When we were asked to share feedback on each other, my cohort at Makers praised my communication skills and my **ability to help others learn**.  
 
 #### Cross-Functional Leadership
 A key strength of mine is **feeling confident in situations where I don't have any of the answers**, but can ask the right questions.  At Innocent I managed a range optimisation and compliance project despite having no experience in that area. My ability to quickly establish a clear overview created the clarity and structure that the project needed.
